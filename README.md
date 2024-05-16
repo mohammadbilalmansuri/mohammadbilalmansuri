@@ -17,8 +17,8 @@
 - **Version Control**: Git and GitHub.
 - **Design Tools**: Adobe XD, Figma, and Canva.
 
-🎯 As I transition from mastering frontend technologies to diving into backend development, I am progressing towards full-stack mastery. 
-🚀 I remain committed to continuous learning and growth in the dynamic field of web technologies. 
+🎯 As I transition from mastering frontend technologies to diving into backend development, I am progressing towards full-stack mastery.\
+🚀 I remain committed to continuous learning and growth in the dynamic field of web technologies.\
 🛤️ I am on a path to professional mastery and growth, driven by a commitment to innovation, striving to become the best version of myself.
 
 ## 🤝 Let's Connect!
