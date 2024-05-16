@@ -4,9 +4,9 @@
 
 🔥 With over one and a half years of hands-on experience, I have crafted more than 50 websites, each reflecting my commitment and dedication to excellence and professionalism. My approach is rooted in best practices, ensuring that every project I undertake is of the highest quality.
 
-## 🌟 Distinctive Proficiencies:
-✦ **Frontend Fundamentals**: HTML, CSS, and Sass/Scss.
-✦ **CSS Frameworks**: Bootstrap and Tailwind CSS.
+## Distinctive Proficiencies 🌟
+- **Frontend Fundamentals**: HTML, CSS, and Sass/Scss.
+- **CSS Frameworks**: Bootstrap and Tailwind CSS.
 - **JavaScript & TypeScript**: Strong command over JavaScript, including ES6+ features, async programming, and TypeScript's type safety.
 - **React**: Skilled in the foundational aspects of React and its ecosystem including React Router, Context API, React Helmet, React Hook Form, Formik, Yup, Axios, and React Query.
 - **State Management**: Redux Toolkit, Zustand, and Recoil.
@@ -19,5 +19,5 @@
 
 🚀 As I transition from mastering frontend technologies to diving into backend development, I am progressing towards full-stack mastery. I remain committed to continuous learning and growth in the dynamic field of web technologies. I am on a path to professional mastery and growth, driven by a commitment to innovation, striving to become the best version of myself.
 
-## 🤝 Let's Connect!
+## Let's Connect! 🤝
 Feel free to reach out, I’d love to collaborate, share ideas, and explore new opportunities together.
