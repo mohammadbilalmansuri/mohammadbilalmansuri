@@ -4,6 +4,8 @@
 
 🔥 With over one and a half years of hands-on experience, I have crafted more than 50 websites, each reflecting my commitment and dedication to excellence and professionalism. My approach is rooted in best practices, ensuring that every project I undertake is of the highest quality.
 
+---
+
 ## 🌟 Distinctive Proficiencies:
 - **Frontend Fundamentals**: HTML, CSS, and Sass/Scss.
 - **CSS Frameworks**: Bootstrap and Tailwind CSS.
@@ -16,6 +18,8 @@
 - **WordPress Development**: Expert in Elementor, Oxygen, Divi, and Breakdance page builders. Experienced in creating e-commerce websites using WooCommerce, multilingual websites, and dynamic & customized websites with ACF/WCK plugins. Skilled in optimizing performance, security, and SEO using appropriate plugins.
 - **Version Control**: Git and GitHub.
 - **Design Tools**: Adobe XD, Figma, and Canva.
+
+---
 
 🚀 As I transition from mastering frontend technologies to diving into backend development, I am progressing towards full-stack mastery. I remain committed to continuous learning and growth in the dynamic field of web technologies. I am on a path to professional mastery and growth, driven by a commitment to innovation, striving to become the best version of myself.
 
