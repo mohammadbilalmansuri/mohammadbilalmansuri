@@ -4,7 +4,7 @@
 
 🔥 With over one and a half years of hands-on experience, I have crafted more than 50 websites, each reflecting my commitment and dedication to excellence and professionalism. My approach is rooted in best practices, ensuring that every project I undertake is of the highest quality.
 
-## 🌟 Distinctive Proficiencies:
+### 🌟 Distinctive Proficiencies:
 - **Frontend Fundamentals**: HTML, CSS, and Sass/Scss.
 - **CSS Frameworks**: Bootstrap and Tailwind CSS.
 - **JavaScript & TypeScript**: Strong command over JavaScript, including ES6+ features, async programming, and TypeScript's type safety.
