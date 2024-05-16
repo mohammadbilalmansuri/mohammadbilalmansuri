@@ -1,4 +1,4 @@
-# Hi there, I'm Bilal 👋
+# Hello, I'm Bilal 👋
 
 👨‍💻 I'm a passionate and dedicated Software Engineer specializing in Frontend Web Development, WordPress Development, and Web Design. I excel at transforming ideas into visually appealing and user-friendly websites. Currently pursuing my Bachelor of Technology in Computer Science & Engineering, my academic journey is complemented by practical experience. I've been contributing to Brandroot Isoft Pvt. Ltd. in a part-time capacity since my second year of college.
 
@@ -17,9 +17,7 @@
 - **Version Control**: Git and GitHub.
 - **Design Tools**: Adobe XD, Figma, and Canva.
 
-🎯 As I transition from mastering frontend technologies to diving into backend development, I am progressing towards full-stack mastery.\
-🚀 I remain committed to continuous learning and growth in the dynamic field of web technologies.\
-🛤️ I am on a path to professional mastery and growth, driven by a commitment to innovation, striving to become the best version of myself.
+🚀 As I transition from mastering frontend technologies to diving into backend development, I am progressing towards full-stack mastery. I remain committed to continuous learning and growth in the dynamic field of web technologies. I am on a path to professional mastery and growth, driven by a commitment to innovation, striving to become the best version of myself.
 
-## 🤝 Let's Connect!
+### 🤝 Let's Connect!
 Feel free to reach out, I’d love to collaborate, share ideas, and explore new opportunities together.
