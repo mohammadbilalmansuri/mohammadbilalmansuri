@@ -19,5 +19,5 @@
 
 🚀 As I transition from mastering frontend technologies to diving into backend development, I am progressing towards full-stack mastery. I remain committed to continuous learning and growth in the dynamic field of web technologies. I am on a path to professional mastery and growth, driven by a commitment to innovation, striving to become the best version of myself.
 
-## Let's Connect! 🤝
+### Let's Connect! 🤝
 Feel free to reach out, I’d love to collaborate, share ideas, and explore new opportunities together.
