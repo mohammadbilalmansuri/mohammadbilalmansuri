@@ -1,8 +1,8 @@
 ## Hello, I’m Bilal!
 
-I’m a passionate Software Engineer specializing in Frontend Web Development, WordPress Development, and Web Design. Currently, I’m in the final year of my Bachelor of Technology in Computer Science & Engineering, balancing my studies with hands-on experience.
+I’m a Software Engineer specializing in Frontend Web Development, WordPress Development, and Web Design. Currently, I’m in the final year of my Bachelor of Technology in Computer Science & Engineering, balancing my studies with hands-on experience.
 
-For over a year, I have been working part-time at Brandroot Isoft, where I previously completed two internships. During my tenure, I have worked on over 50 projects and continue to do so. Throughout my journey, I have always focused on following best practices, ensuring that every project I undertake meets the highest standards.
+For over a year, I have been working part-time at BrandRoot Isoft, where I previously completed two internships. During my tenure, I have worked on over 50 projects and continue to do so. Throughout my journey, I have always focused on following best practices, ensuring that every project I undertake meets the highest standards.
 
 ### Distinctive Proficiencies
 
