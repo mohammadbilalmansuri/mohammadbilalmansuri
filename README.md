@@ -12,8 +12,8 @@ For over a year, I have been working part-time at **BrandRoot Isoft**, where I p
 - **React:** Skilled in the foundational aspects of React and its ecosystem, including React Router, Context API, React Helmet, React Hook Form, Formik, Yup, Axios, and React Query
 - **State Management:** Redux Toolkit, Zustand, and Recoil
 - **Animation Libraries:** GSAP, Locomotive Scroll, Shery.js, Framer Motion, and Swiper
-- **React Component Libraries:** Material UI, Shadcn, Aceternity UI, and Ant Design
-- **Backend as a Service:** Appwrite and Firebase
+- **Component Libraries:** Material UI, Shadcn, Aceternity UI, and Ant Design
+- **Backend as a Service:** Appwrite
 - **WordPress Development:** Expert in Elementor, Oxygen, Divi, and Breakdance page builders. Experienced in creating e-commerce websites using WooCommerce, multilingual websites, and dynamic & customized websites with ACF/WCK plugins. Skilled in optimizing performance, security, and SEO using appropriate plugins
 - **Version Control:** Git and GitHub
 - **Design Tools:** Adobe XD, Figma, and Canva
