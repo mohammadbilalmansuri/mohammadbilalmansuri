@@ -4,42 +4,49 @@ I’ve been working part-time at BrandRoot Isoft, where I also started with inte
 
 I began as a Frontend Intern, moved into WordPress Development, and later started contributing part-time as a Frontend Developer, WordPress Developer, and UI/UX Designer. I’m now working as a Full Stack Developer, still actively involved in both development and design.
 
-What I work with:
+### What I work with:
 
-Languages:
-• JavaScript, TypeScript
+#### Languages:
 
-Frontend:
-• HTML, CSS, SCSS/SASS, Tailwind CSS, Bootstrap
-• React and its ecosystem
-• State Management: Redux, Zustand, Recoil
-• UI Libraries: Shadcn, Aceternity UI, Material UI, Ant Design, DaisyUI
-• Animations: Framer Motion, GSAP, Lenis
+- JavaScript, TypeScript
 
-Backend:
-• Node.js, Express.js
-• MongoDB, MySQL, PostgreSQL
-• Prisma, Mongoose, Zod
-• JWT, Passport.js, Multer
-• WebSocket, Socket.io
-• Appwrite (BaaS)
+#### Frontend:
 
-Full Stack Frameworks & Auth:
-• Next.js
-• NextAuth, Clerk
+- HTML, CSS, SCSS/SASS, Tailwind CSS, Bootstrap
+- React and its ecosystem
+- State Management: Redux, Zustand, Recoil
+- UI Libraries: Shadcn, Aceternity UI, Material UI, Ant Design, DaisyUI
+- Animations: Framer Motion, GSAP, Lenis
 
-AI & Vector Databases:
-• OpenAI, LangChain, HuggingFace, Groq
-• Vector Databases: Pinecone, Qdrant, MongoDB Atlas
+#### Backend:
 
-Tools & Design
-• Git, GitHub, Turborepo
-• Figma, Canva
+- Node.js, Express.js
+- MongoDB, MySQL, PostgreSQL
+- Prisma, Mongoose, Zod
+- JWT, Passport.js, Multer
+- WebSocket, Socket.io
+- Appwrite (BaaS)
 
-WordPress
-• Elementor, Oxygen, Divi, Breakdance
-• WooCommerce, multilingual and dynamic sites using ACF/WCK
-• Performance, SEO, and security optimization
+#### Full Stack Frameworks & Auth:
+
+- Next.js
+- NextAuth, Clerk
+
+#### AI & Vector Databases:
+
+- OpenAI, LangChain, HuggingFace, Groq
+- Vector Databases: Pinecone, Qdrant, MongoDB Atlas
+
+#### Tools & Design
+
+- Git, GitHub, Turborepo
+- Figma, Canva
+
+#### WordPress
+
+- Elementor, Oxygen, Divi, Breakdance
+- WooCommerce, multilingual and dynamic sites using ACF/WCK
+- Performance, SEO, and security optimization
 
 I aim to write clean, reusable, and scalable code with a strong focus on performance and user experience. I enjoy building, learning, and collaborating on meaningful projects.
 
