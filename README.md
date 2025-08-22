@@ -1,8 +1,8 @@
 Hi, I’m a Software Engineer focused on Full Stack Development. I’m currently learning and exploring DevOps, Web3, and App Development using React Native.
 
-I’ve been working part-time at BrandRoot Isoft, where I also started with internships. From day one, I’ve been involved in real-world work — contributing to over 50 projects and continuing to take on new challenges.
+I’ve been working at BrandRoot Isoft, where I also started with internship. From day one, I’ve been involved in real-world work — contributing to over 50 projects and continuing to take on new challenges.
 
-I began as a Frontend Intern, moved into WordPress Development, and later started contributing part-time as a Frontend Developer, WordPress Developer, and UI/UX Designer. I’m now working as a Full Stack Developer, still actively involved in both development and design.
+I began as a Frontend, moved into WordPress Development, and later started contributing as a frontend web developer. I’m now working as a full stack software engineer, still actively involved in both development and design.
 
 ### What I work with:
 
