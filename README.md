@@ -1,4 +1,4 @@
-Full Stack Software Engineer with 1.5 years of experience building scalable web and mobile applications using MERN Stack, Next.js, and React Native. Skilled in frontend, backend, and testing, with a proven track record of leading projects and delivering client-focused solutions. Currently exploring DevOps and Web3.
+Full Stack Software Engineer with 1.5 years of experience building scalable web and mobile applications using MERN Stack, Next.js, and React Native. Skilled in frontend and backend, with a proven track record of leading projects and delivering client-focused solutions. Currently exploring DevOps and Web3.
 
 ### What I work with:
 
