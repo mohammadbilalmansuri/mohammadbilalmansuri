@@ -10,7 +10,7 @@ Software Engineer with 1.5+ years of experience building scalable web applicatio
 - **Mobile Application Development:** React Native, Expo, NativeWind (Tailwind for React Native), React Native Reanimated
 - **AI & Vector Database Integration:** OpenAI API, Gemini API, Hugging Face, Groq, Pinecone, Qdrant
 - **Tools & Workflow:** Git, GitHub, Vite, Turborepo, Postman, Cloudinary, Figma, Canva, Linux, Bash, Docker, Shell Scripting
-- **CMS:** WordPress, Webflow
+- **CMS:** WordPress, Webflow, Framer
 
 I aim to write clean, reusable, and scalable code with a strong focus on performance and user experience. I enjoy building, learning, and collaborating on meaningful projects.
 
